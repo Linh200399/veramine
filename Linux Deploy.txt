@@ -1,6 +1,0 @@
-Please find the Linux sensor attached. Below are its basic cmd line options:
-./phantom-xxx.lnx --start
-./phantom-xxx.lnx --stop
-./phantom-xxx.lnx --install
-./phantom-xxx.lnx --test  - connectivity and integrity tests
-./phantom-xxx.lnx --cs     - show current config
